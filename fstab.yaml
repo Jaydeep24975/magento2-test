@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://content.da.live/jaydeep24975/magento2-test/
     type: markup
 
 folders:
